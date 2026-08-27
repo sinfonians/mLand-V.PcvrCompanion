@@ -1,0 +1,15 @@
+Mu-land V PCVR Companion
+
+This product includes OpenVR SDK v2.15.6 from Valve Corporation.
+OpenVR is licensed under the BSD 3-Clause License. The unmodified upstream
+license is downloaded and verified as vendor/LICENSE.openvr by
+Bootstrap-OpenVr.ps1 and is included in published artifacts.
+
+Source: https://github.com/ValveSoftware/openvr/tree/v2.15.6
+
+This product includes LiveKit C++ Client SDK v1.6.0.
+Copyright 2023 LiveKit. LiveKit is licensed under the Apache License 2.0.
+The pinned official Windows x64 archive is checksum-verified by
+Bootstrap-LiveKit.ps1 and its runtime DLLs are included in published artifacts.
+
+Source: https://github.com/livekit/client-sdk-cpp/tree/v1.6.0
